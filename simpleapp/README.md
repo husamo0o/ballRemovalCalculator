@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## First Step
+write the below command to install missing modules
+### `npm install`
 
 ## Available Scripts
 
